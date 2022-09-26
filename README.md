@@ -1,6 +1,7 @@
 # fitness_program
 Fitness Program using Python
-Problem Statement
+Problem Statement.
+
 Health professionals who are helping a client achieve a healthy body weight, sometimes use two computed measures named body mass index and basal metabolic rate.
 
 From the U.S. Centers for Disease Control and Prevention we read, "Body mass index (BMI) is a person's weight in kilograms divided by the square of their height in meters. BMI can be used to screen for weight categories such as underweight, normal, overweight, and obese that may lead to health problems. However, BMI is not diagnostic of the body fatness or health of an individual." The formula for computing BMI is
